@@ -1,0 +1,524 @@
+{
+  "confidence": 0.7,
+  "detected_language": "mr",
+  "extracted_at": "2025-11-17T10:57:21.864761",
+  "extraction_method": "generated",
+  "languages_attempted": [
+    "mr",
+    "hi",
+    "en"
+  ],
+  "processing_time_ms": 1197,
+  "segments": [
+    {
+      "duration": 4.92,
+      "end_time": 5.24,
+      "language": "mr",
+      "segment_id": 0,
+      "start_time": 0.32,
+      "text": "आता स्मृतिस्थळी दाखल होतायत आपण थेट"
+    },
+    {
+      "duration": 3,
+      "end_time": 5.24,
+      "language": "mr",
+      "segment_id": 1,
+      "start_time": 2.24,
+      "text": "जाऊया."
+    },
+    {
+      "duration": 7.77,
+      "end_time": 18.89,
+      "language": "mr",
+      "segment_id": 2,
+      "start_time": 11.12,
+      "text": "सर बाजूला बाजूला"
+    },
+    {
+      "duration": 5.12,
+      "end_time": 33.28,
+      "language": "mr",
+      "segment_id": 5,
+      "start_time": 28.16,
+      "text": "आहेत पण आपण बघतो उद्धव ठाकरे एकटेच आता"
+    },
+    {
+      "duration": 4.4,
+      "end_time": 35.28,
+      "language": "mr",
+      "segment_id": 6,
+      "start_time": 30.88,
+      "text": "इथे दाखल झालेले आहेत काही वेळापूर्वी"
+    },
+    {
+      "duration": 3.84,
+      "end_time": 37.120000000000005,
+      "language": "mr",
+      "segment_id": 7,
+      "start_time": 33.28,
+      "text": "संजय राऊत स्मृतीस्थयी आलेले होते आणि"
+    },
+    {
+      "duration": 6.56,
+      "end_time": 41.84,
+      "language": "mr",
+      "segment_id": 8,
+      "start_time": 35.28,
+      "text": "त्यानंतर आता उद्धव ठाकरे बाळा"
+    },
+    {
+      "duration": 6.8,
+      "end_time": 43.919999999999995,
+      "language": "mr",
+      "segment_id": 9,
+      "start_time": 37.12,
+      "text": "बाळासाहेबांच्या स्मृतिस्थळी वंदन करतायत."
+    },
+    {
+      "duration": 4.559,
+      "end_time": 46.399,
+      "language": "mr",
+      "segment_id": 10,
+      "start_time": 41.84,
+      "text": "मात्र राज ठाकरे आता स्मृतिस्थळी कधी"
+    },
+    {
+      "duration": 4.479,
+      "end_time": 48.399,
+      "language": "mr",
+      "segment_id": 11,
+      "start_time": 43.92,
+      "text": "येतात हे पाहणं महत्त्वाचं असेल. उद्धव"
+    },
+    {
+      "duration": 4.561,
+      "end_time": 50.96,
+      "language": "mr",
+      "segment_id": 12,
+      "start_time": 46.399,
+      "text": "ठाकरे बाळासाहेबांच्या स्मृतिस्थळी"
+    },
+    {
+      "duration": 4.8,
+      "end_time": 53.199,
+      "language": "mr",
+      "segment_id": 13,
+      "start_time": 48.399,
+      "text": "त्यांना आदरांजली वाहत आहेत. आपणही थेट"
+    },
+    {
+      "duration": 6.04,
+      "end_time": 57,
+      "language": "mr",
+      "segment_id": 14,
+      "start_time": 50.96,
+      "text": "दृश्य बघतोय शिवाजी पार्क मधल्या"
+    },
+    {
+      "duration": 3.801,
+      "end_time": 57,
+      "language": "mr",
+      "segment_id": 15,
+      "start_time": 53.199,
+      "text": "बाळासाहेबांच्या स्मृतिस्थळावरची."
+    },
+    {
+      "duration": 3.919,
+      "end_time": 61.358999999999995,
+      "language": "mr",
+      "segment_id": 16,
+      "start_time": 57.44,
+      "text": "पुन्हा एकदा आपण जाणार आहोत आपले"
+    },
+    {
+      "duration": 4.64,
+      "end_time": 63.6,
+      "language": "mr",
+      "segment_id": 17,
+      "start_time": 58.96,
+      "text": "प्रतिनिधी वेदांत नेब यांच्याकडे. वेदांत"
+    },
+    {
+      "duration": 5.241,
+      "end_time": 66.6,
+      "language": "mr",
+      "segment_id": 18,
+      "start_time": 61.359,
+      "text": "उद्धव ठाकरे दाखल झालेत. राज ठाकरेंची"
+    },
+    {
+      "duration": 3,
+      "end_time": 66.6,
+      "language": "mr",
+      "segment_id": 19,
+      "start_time": 63.6,
+      "text": "प्रतीक्षा."
+    },
+    {
+      "duration": 3.601,
+      "end_time": 72.72,
+      "language": "mr",
+      "segment_id": 20,
+      "start_time": 69.119,
+      "text": "नक्कीच ज्या प्रकारे आपण बघतोय"
+    },
+    {
+      "duration": 4.081,
+      "end_time": 74.56,
+      "language": "mr",
+      "segment_id": 21,
+      "start_time": 70.479,
+      "text": "दृश्यांमध्ये उद्धव ठाकरे आदित्य ठाकरे"
+    },
+    {
+      "duration": 6,
+      "end_time": 78.72,
+      "language": "mr",
+      "segment_id": 22,
+      "start_time": 72.72,
+      "text": "रश्मी ठाकरे त्यासोबतच ठाकरेंच्या"
+    },
+    {
+      "duration": 6,
+      "end_time": 80.56,
+      "language": "mr",
+      "segment_id": 23,
+      "start_time": 74.56,
+      "text": "शिवसेनेचे आमदार खासदार हे सर्व इथे"
+    },
+    {
+      "duration": 3.759,
+      "end_time": 82.479,
+      "language": "mr",
+      "segment_id": 24,
+      "start_time": 78.72,
+      "text": "बाळासाहेब ठाकरे यांच्या स्मृतिस्थळावर"
+    },
+    {
+      "duration": 4.239,
+      "end_time": 84.799,
+      "language": "mr",
+      "segment_id": 25,
+      "start_time": 80.56,
+      "text": "आदरांजली वाहण्यासाठी अभिवादन करण्यासाठी"
+    },
+    {
+      "duration": 5.441,
+      "end_time": 87.92,
+      "language": "mr",
+      "segment_id": 26,
+      "start_time": 82.479,
+      "text": "पोहोचलेले आहेत पुष्पहार अर्पण केला जातोय"
+    },
+    {
+      "duration": 4.881,
+      "end_time": 89.68,
+      "language": "mr",
+      "segment_id": 27,
+      "start_time": 84.799,
+      "text": "आणि राज्यभरातील मुंबईतले जे शिवसैनिक"
+    },
+    {
+      "duration": 4.96,
+      "end_time": 92.88,
+      "language": "mr",
+      "segment_id": 28,
+      "start_time": 87.92,
+      "text": "आहेत ते सुद्धा वाट बघत होते की"
+    },
+    {
+      "duration": 6.479,
+      "end_time": 96.159,
+      "language": "mr",
+      "segment_id": 29,
+      "start_time": 89.68,
+      "text": "पक्षप्रमुख नेमके कधी येत आणि आपण बघतोय"
+    },
+    {
+      "duration": 5.279,
+      "end_time": 98.15899999999999,
+      "language": "mr",
+      "segment_id": 30,
+      "start_time": 92.88,
+      "text": "इथे अभिवादन उद्धव ठाकरे यांनी केलेल आहे"
+    },
+    {
+      "duration": 4.081,
+      "end_time": 100.24000000000001,
+      "language": "mr",
+      "segment_id": 31,
+      "start_time": 96.159,
+      "text": "असं कळतय की थोड्याच वेळात राज ठाकरे"
+    },
+    {
+      "duration": 4.881,
+      "end_time": 103.04,
+      "language": "mr",
+      "segment_id": 32,
+      "start_time": 98.159,
+      "text": "सुद्धा या स्मृतीस्थळावर येतील आणि"
+    },
+    {
+      "duration": 5.12,
+      "end_time": 105.36,
+      "language": "mr",
+      "segment_id": 33,
+      "start_time": 100.24,
+      "text": "अभिवादन करतील मात्र अद्याप ते कधी येणार"
+    },
+    {
+      "duration": 4.96,
+      "end_time": 108,
+      "language": "mr",
+      "segment_id": 34,
+      "start_time": 103.04,
+      "text": "याबद्दल अद्याप माहिती मिळालेली नाही"
+    },
+    {
+      "duration": 4.56,
+      "end_time": 109.92,
+      "language": "mr",
+      "segment_id": 35,
+      "start_time": 105.36,
+      "text": "मात्र आपण बघतोय की शिवसैनिक मोठ्या"
+    },
+    {
+      "duration": 4.32,
+      "end_time": 112.32,
+      "language": "mr",
+      "segment_id": 36,
+      "start_time": 108,
+      "text": "संख्येने इथे जमलेले आपल्याला पाहायला"
+    },
+    {
+      "duration": 4.8,
+      "end_time": 114.72,
+      "language": "mr",
+      "segment_id": 37,
+      "start_time": 109.92,
+      "text": "मिळतात तेरावा हा स्मृतीदिन आहे आणि या"
+    },
+    {
+      "duration": 4.72,
+      "end_time": 117.03999999999999,
+      "language": "mr",
+      "segment_id": 38,
+      "start_time": 112.32,
+      "text": "दिवशी आपण बघतोय सर्व महत्त्वाचे नेते"
+    },
+    {
+      "duration": 5.2,
+      "end_time": 119.92,
+      "language": "mr",
+      "segment_id": 39,
+      "start_time": 114.72,
+      "text": "मुंबईतले नेते किंवा मुंबई बाहेरच्या"
+    },
+    {
+      "duration": 5.28,
+      "end_time": 122.32000000000001,
+      "language": "mr",
+      "segment_id": 40,
+      "start_time": 117.04,
+      "text": "राज्यभरातील नेते हे या स्मृती दिनाच्या"
+    },
+    {
+      "duration": 4,
+      "end_time": 123.92,
+      "language": "mr",
+      "segment_id": 41,
+      "start_time": 119.92,
+      "text": "दिवशी या स्मृतीस्थळावर बाळासाहेब ठाकरे"
+    },
+    {
+      "duration": 4.24,
+      "end_time": 126.55999999999999,
+      "language": "mr",
+      "segment_id": 42,
+      "start_time": 122.32,
+      "text": "यांच्या स्मृती स्थळाला अभिवादन"
+    },
+    {
+      "duration": 5.199,
+      "end_time": 129.119,
+      "language": "mr",
+      "segment_id": 43,
+      "start_time": 123.92,
+      "text": "करण्यासाठी येत असतात आणि आपण इथे बघतो"
+    },
+    {
+      "duration": 5.679,
+      "end_time": 132.239,
+      "language": "mr",
+      "segment_id": 44,
+      "start_time": 126.56,
+      "text": "पूर्ण तयारी या स्मृतिस्थळाची आपण बघतो"
+    },
+    {
+      "duration": 6.001,
+      "end_time": 135.12,
+      "language": "mr",
+      "segment_id": 45,
+      "start_time": 129.119,
+      "text": "पूर्ण फुलांनी सजवलेले हे स्मृतीस्थळ आहे"
+    },
+    {
+      "duration": 5.521,
+      "end_time": 137.76,
+      "language": "mr",
+      "segment_id": 46,
+      "start_time": 132.239,
+      "text": "जिथे सुभाष देसाई आपण बघतोय अनिल देसाई"
+    },
+    {
+      "duration": 5.36,
+      "end_time": 140.48000000000002,
+      "language": "mr",
+      "segment_id": 47,
+      "start_time": 135.12,
+      "text": "आहेत त्याशिवाय या ठिकाणचे स्थानिक आमदार"
+    },
+    {
+      "duration": 5.44,
+      "end_time": 143.2,
+      "language": "mr",
+      "segment_id": 48,
+      "start_time": 137.76,
+      "text": "महेश सावंत आपल्याला पाहायला मिळतात आणि"
+    },
+    {
+      "duration": 4.64,
+      "end_time": 145.11999999999998,
+      "language": "mr",
+      "segment_id": 49,
+      "start_time": 140.48,
+      "text": "मुंबई महापालिका असेल त्यासोबतच या"
+    },
+    {
+      "duration": 5.84,
+      "end_time": 149.04,
+      "language": "mr",
+      "segment_id": 50,
+      "start_time": 143.2,
+      "text": "ठिकाणचे स्थानिक शिवसैनिक असतील त्यांनी"
+    },
+    {
+      "duration": 6.64,
+      "end_time": 151.76,
+      "language": "mr",
+      "segment_id": 51,
+      "start_time": 145.12,
+      "text": "पूर्णपणे इथे हे सर्व स्मृतिस्थळ सजवलेला"
+    },
+    {
+      "duration": 5.44,
+      "end_time": 154.48,
+      "language": "mr",
+      "segment_id": 52,
+      "start_time": 149.04,
+      "text": "आहे शिवाय एक मोठा फोटो बाळासाहेब ठाकरे"
+    },
+    {
+      "duration": 4.8,
+      "end_time": 156.56,
+      "language": "mr",
+      "segment_id": 53,
+      "start_time": 151.76,
+      "text": "यांचा इथे लावण्यात आलेला आहे जे जे"
+    },
+    {
+      "duration": 5.36,
+      "end_time": 159.84,
+      "language": "mr",
+      "segment_id": 54,
+      "start_time": 154.48,
+      "text": "महत्त्वाचे नेते आहेत पदाधिकारी आहेत ते"
+    },
+    {
+      "duration": 4.959,
+      "end_time": 161.519,
+      "language": "mr",
+      "segment_id": 55,
+      "start_time": 156.56,
+      "text": "आत मध्ये जाऊन इथे अभिवादन करतायत तर जे"
+    },
+    {
+      "duration": 3.119,
+      "end_time": 162.959,
+      "language": "mr",
+      "segment_id": 56,
+      "start_time": 159.84,
+      "text": "राज्यभरातील शिवसैनिक आहेत त्यांच्यासाठी"
+    },
+    {
+      "duration": 2.961,
+      "end_time": 164.48000000000002,
+      "language": "mr",
+      "segment_id": 57,
+      "start_time": 161.519,
+      "text": "सुद्धा एक वेगळी व्यवस्था अभिवादन"
+    },
+    {
+      "duration": 4.801,
+      "end_time": 167.76,
+      "language": "mr",
+      "segment_id": 58,
+      "start_time": 162.959,
+      "text": "करण्यासाठी इथे केलेली आपल्याला पाहायला"
+    },
+    {
+      "duration": 5.759,
+      "end_time": 170.23899999999998,
+      "language": "mr",
+      "segment_id": 59,
+      "start_time": 164.48,
+      "text": "मिळतेय आणि त्यामुळे उद्धव ठाकरे सहकुटुंब"
+    },
+    {
+      "duration": 6.08,
+      "end_time": 173.84,
+      "language": "mr",
+      "segment_id": 60,
+      "start_time": 167.76,
+      "text": "अभिवादन करण्यासाठी स्मृतीस्थळावर दाखल"
+    },
+    {
+      "duration": 7.521,
+      "end_time": 177.76,
+      "language": "mr",
+      "segment_id": 61,
+      "start_time": 170.239,
+      "text": "झालेत काही चर्चा करतायत कारण इथे आपण"
+    },
+    {
+      "duration": 8.08,
+      "end_time": 181.92000000000002,
+      "language": "mr",
+      "segment_id": 62,
+      "start_time": 173.84,
+      "text": "बघितलं तर चोक व्यवस्था ही दरवर्षी इथे"
+    },
+    {
+      "duration": 4.16,
+      "end_time": 181.92,
+      "language": "mr",
+      "segment_id": 63,
+      "start_time": 177.76,
+      "text": "केली जाते कारण मोठ्या संख्येने के शिव"
+    }
+  ],
+  "service_info": {
+    "method": "youtube_transcript_api",
+    "version": "1.0.0"
+  },
+  "success": true,
+  "total_duration": 181.92000000000002,
+  "total_segments": 62,
+  "video_id": "8SISFW5WSmI",
+  "cached_at": "2025-11-17T10:57:21.870Z",
+  "video_metadata": {
+    "video_id": "8SISFW5WSmI",
+    "title": "Uddhav Thackeray on Balasaheb Thackeray :  उद्धव ठाकरे बाळासाहेबांच्या स्मृतीस्थळी दाखल",
+    "cached_for_processing": true
+  }
+}

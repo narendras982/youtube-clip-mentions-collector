@@ -1,0 +1,196 @@
+{
+  "confidence": 0.7,
+  "detected_language": "mr",
+  "extracted_at": "2025-11-17T11:40:24.450680",
+  "extraction_method": "generated",
+  "languages_attempted": [
+    "mr",
+    "hi",
+    "en"
+  ],
+  "processing_time_ms": 3829,
+  "segments": [
+    {
+      "duration": 5.52,
+      "end_time": 5.6,
+      "language": "mr",
+      "segment_id": 0,
+      "start_time": 0.08,
+      "text": "तेव्हा बाळासाहेब ठाकरेंच्या स्मृतिदिनही"
+    },
+    {
+      "duration": 5.68,
+      "end_time": 7.8389999999999995,
+      "language": "mr",
+      "segment_id": 1,
+      "start_time": 2.159,
+      "text": "शरद पवारांनी ट्वीट केलय आणि अभिवादन केलय"
+    },
+    {
+      "duration": 3.76,
+      "end_time": 9.36,
+      "language": "mr",
+      "segment_id": 2,
+      "start_time": 5.6,
+      "text": "तर शरद पवारांनी काय नेमक ट्वीट केल एकदा"
+    },
+    {
+      "duration": 3.84,
+      "end_time": 11.679,
+      "language": "mr",
+      "segment_id": 3,
+      "start_time": 7.839,
+      "text": "आपण पाहूया बाळासाहेब ठाकरेंच्या"
+    },
+    {
+      "duration": 4.159,
+      "end_time": 13.518999999999998,
+      "language": "mr",
+      "segment_id": 4,
+      "start_time": 9.36,
+      "text": "प्रतिदिनावर शरद पवार यांनी हे ट्वीट केल"
+    },
+    {
+      "duration": 4.321,
+      "end_time": 16,
+      "language": "mr",
+      "segment_id": 5,
+      "start_time": 11.679,
+      "text": "आणि त्यांनी आठवणींना उजाळा दिलाय"
+    },
+    {
+      "duration": 5.76,
+      "end_time": 19.279,
+      "language": "mr",
+      "segment_id": 6,
+      "start_time": 13.519,
+      "text": "बाळासाहेबांनी आपल्या ठाकरी बाड्यान आणि"
+    },
+    {
+      "duration": 5.84,
+      "end_time": 21.84,
+      "language": "mr",
+      "segment_id": 7,
+      "start_time": 16,
+      "text": "मुक्तहस्ते विरोधकांन शब्दांचा मारा केला."
+    },
+    {
+      "duration": 5.521,
+      "end_time": 24.8,
+      "language": "mr",
+      "segment_id": 8,
+      "start_time": 19.279,
+      "text": "त्यांच्या व्यंगचित्रांनी अनेकांना घायाळ"
+    },
+    {
+      "duration": 5.679,
+      "end_time": 27.519,
+      "language": "mr",
+      "segment_id": 9,
+      "start_time": 21.84,
+      "text": "केलं पण आयुष्यभर त्यांनी राजकारणा पलीकडे"
+    },
+    {
+      "duration": 6.399,
+      "end_time": 31.199,
+      "language": "mr",
+      "segment_id": 10,
+      "start_time": 24.8,
+      "text": "निस्वार्थपणे मैत्री जपली त्यात कटूता"
+    },
+    {
+      "duration": 8.56,
+      "end_time": 36.079,
+      "language": "mr",
+      "segment_id": 11,
+      "start_time": 27.519,
+      "text": "आणली नाही महाराष्ट्राचा इतिहास ज्यांच्या"
+    },
+    {
+      "duration": 7.841,
+      "end_time": 39.04,
+      "language": "mr",
+      "segment_id": 12,
+      "start_time": 31.199,
+      "text": "उल्लेखाशिवाय पूर्ण होऊ शकत नाही असे"
+    },
+    {
+      "duration": 6.241,
+      "end_time": 42.32,
+      "language": "mr",
+      "segment_id": 13,
+      "start_time": 36.079,
+      "text": "राज्याच्या समाजकारणामध्ये मोठं योगदान"
+    },
+    {
+      "duration": 6.72,
+      "end_time": 45.76,
+      "language": "mr",
+      "segment_id": 14,
+      "start_time": 39.04,
+      "text": "देणारे शिवसेना प्रमुख स्वर्गीय बाळासाहेब"
+    },
+    {
+      "duration": 5.68,
+      "end_time": 48,
+      "language": "mr",
+      "segment_id": 15,
+      "start_time": 42.32,
+      "text": "ठाकरे यांना स्मृतिदिनी विनम्र अभिवादन"
+    },
+    {
+      "duration": 4.4,
+      "end_time": 50.16,
+      "language": "mr",
+      "segment_id": 16,
+      "start_time": 45.76,
+      "text": "शरद पवार राष्ट्रवादी शरदचंद्र पवार"
+    },
+    {
+      "duration": 4.399,
+      "end_time": 52.399,
+      "language": "mr",
+      "segment_id": 17,
+      "start_time": 48,
+      "text": "पक्षाचे अध्यक्ष यांनी अशा प्रकारे आज"
+    },
+    {
+      "duration": 6.28,
+      "end_time": 56.44,
+      "language": "mr",
+      "segment_id": 18,
+      "start_time": 50.16,
+      "text": "बाळासाहेबांच्या स्मृतिदिनी ट्वीट करून"
+    },
+    {
+      "duration": 4.041,
+      "end_time": 56.44,
+      "language": "mr",
+      "segment_id": 19,
+      "start_time": 52.399,
+      "text": "त्यांना अभिवादन केलय."
+    },
+    {
+      "duration": 3,
+      "end_time": 60.36,
+      "language": "mr",
+      "segment_id": 20,
+      "start_time": 57.36,
+      "text": "24"
+    }
+  ],
+  "service_info": {
+    "method": "youtube_transcript_api",
+    "version": "1.0.0"
+  },
+  "success": true,
+  "total_duration": 60.36,
+  "total_segments": 21,
+  "video_id": "T_V593AWAv0",
+  "cached_at": "2025-11-17T11:40:24.453Z",
+  "video_metadata": {
+    "video_id": "T_V593AWAv0",
+    "title": "Sharad Pawar - Post On X | Pay Tribute To Balsaheb Thackreay On Memorial Day",
+    "cached_for_processing": true
+  }
+}

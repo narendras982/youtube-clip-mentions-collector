@@ -1,0 +1,82 @@
+{
+  "feeds": [
+    {
+      "name": "Zee 24 Taas",
+      "description": "Zee 24 Taas - Leading Marathi News Channel",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVbsFo8aCgvIRIO9RYwsQMA",
+      "enabled": true,
+      "refresh_interval": 3600,
+      "keywords": ["महाराष्ट्र", "मुंबई", "पुणे", "नाशिक", "मराठी", "सरकार", "राजकारण"]
+    },
+    {
+      "name": "ABP Majha",
+      "description": "ABP Majha - Marathi News Channel",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH7nv1A9xIrAifZJNvt7cgA",
+      "enabled": true,
+      "refresh_interval": 3600,
+      "keywords": ["महाराष्ट्र", "मुंबई", "पुणे", "मराठी", "बातमी", "न्यूज"]
+    },
+    {
+      "name": "TV9 Marathi",
+      "description": "TV9 Marathi News Channel",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiCbHh_k0SJIj8-wJ2C_W7w",
+      "enabled": true,
+      "refresh_interval": 3600,
+      "keywords": ["महाराष्ट्र", "मुंबई", "राजकारण", "मराठी", "समाज"]
+    },
+    {
+      "name": "Saam TV",
+      "description": "Saam TV - Marathi News and Entertainment",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUOlhKoJIKGY-CQDHcN7DQg",
+      "enabled": true,
+      "refresh_interval": 3600,
+      "keywords": ["महाराष्ट्र", "मराठी", "समाज", "राजकारण", "न्यूज"]
+    },
+    {
+      "name": "Maharashtra Times",
+      "description": "Maharashtra Times - Digital News Portal",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2Q4a1xddK7azUNpZhJdHoQ",
+      "enabled": true,
+      "refresh_interval": 3600,
+      "keywords": ["महाराष्ट्र", "मराठी", "न्यूज", "टाइम्स", "बातमी"]
+    },
+    {
+      "name": "News18 Lokmat",
+      "description": "News18 Lokmat - Marathi News Channel",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrcpw88HvKJ0skdsHniCJtQ",
+      "enabled": true,
+      "refresh_interval": 3600,
+      "keywords": ["महाराष्ट्र", "लोकमत", "मराठी", "बातमी", "राजकारण"]
+    },
+    {
+      "name": "Mi Marathi",
+      "description": "Mi Marathi - Entertainment and News",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoEAEZTa8Zz-DZtlZA0e_Wg",
+      "enabled": true,
+      "refresh_interval": 3600,
+      "keywords": ["महाराष्ट्र", "मराठी", "मी मराठी", "मनोरंजन", "संस्कृती"]
+    }
+  ],
+  "common_keywords": [
+    "महाराष्ट्र",
+    "मुंबई", 
+    "पुणे",
+    "नाशिक",
+    "नागपूर",
+    "मराठी",
+    "राजकारण",
+    "सरकार",
+    "न्यूज",
+    "बातमी",
+    "समाज",
+    "संस्कृती",
+    "मनोरंजन"
+  ],
+  "import_settings": {
+    "auto_enable": true,
+    "default_language": "mr",
+    "default_refresh_interval": 3600,
+    "enable_transcript_processing": false,
+    "manual_transcript_confirmation": true
+  }
+}

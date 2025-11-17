@@ -1,0 +1,404 @@
+{
+  "confidence": 0.7,
+  "detected_language": "mr",
+  "extracted_at": "2025-11-17T07:52:03.236176",
+  "extraction_method": "generated",
+  "languages_attempted": [
+    "mr",
+    "hi",
+    "en"
+  ],
+  "processing_time_ms": 1181,
+  "segments": [
+    {
+      "duration": 4.4,
+      "end_time": 7.5200000000000005,
+      "language": "mr",
+      "segment_id": 0,
+      "start_time": 3.12,
+      "text": "मुंबई महापालिकेच्या अनुषंगाने आज भाजपाची"
+    },
+    {
+      "duration": 4.001,
+      "end_time": 9.36,
+      "language": "mr",
+      "segment_id": 1,
+      "start_time": 5.359,
+      "text": "महत्त्वाची बैठक माहितीमध्ये जागापापूर्वी"
+    },
+    {
+      "duration": 4.32,
+      "end_time": 11.84,
+      "language": "mr",
+      "segment_id": 2,
+      "start_time": 7.52,
+      "text": "भाजपकडून तयारीला सुरुवात मुंबई अध्यक्ष"
+    },
+    {
+      "duration": 4.399,
+      "end_time": 13.759,
+      "language": "mr",
+      "segment_id": 3,
+      "start_time": 9.36,
+      "text": "अमित साटम आशिष शेलार मंगल प्रभात लोडा"
+    },
+    {
+      "duration": 5.68,
+      "end_time": 17.52,
+      "language": "mr",
+      "segment_id": 4,
+      "start_time": 11.84,
+      "text": "प्रवीण दरेकर अतुल भातकळकर यांच्या सोबत"
+    },
+    {
+      "duration": 5.6,
+      "end_time": 19.359,
+      "language": "mr",
+      "segment_id": 5,
+      "start_time": 13.759,
+      "text": "काही महत्त्वाचे नेते उपस्थित राहणार"
+    },
+    {
+      "duration": 3.599,
+      "end_time": 21.119,
+      "language": "mr",
+      "segment_id": 6,
+      "start_time": 17.52,
+      "text": "बिहारमध्ये सत्ता स्थापनेच्या हालचाली"
+    },
+    {
+      "duration": 3.76,
+      "end_time": 23.119,
+      "language": "mr",
+      "segment_id": 7,
+      "start_time": 19.359,
+      "text": "सुरू नव्या सरकारच्या स्थापनेसाठी भाजपा"
+    },
+    {
+      "duration": 3.761,
+      "end_time": 24.88,
+      "language": "mr",
+      "segment_id": 8,
+      "start_time": 21.119,
+      "text": "जतयु लोजपा आणि एनडीए येथील इतर घटक"
+    },
+    {
+      "duration": 3.761,
+      "end_time": 26.88,
+      "language": "mr",
+      "segment_id": 9,
+      "start_time": 23.119,
+      "text": "पक्षांच्या नेत्यांमध्ये बैठका सुरू"
+    },
+    {
+      "duration": 4.639,
+      "end_time": 29.519,
+      "language": "mr",
+      "segment_id": 10,
+      "start_time": 24.88,
+      "text": "मुख्यमंत्री नितीश कुमार यांनी कॅबिनेटची"
+    },
+    {
+      "duration": 4.399,
+      "end_time": 31.279,
+      "language": "mr",
+      "segment_id": 11,
+      "start_time": 26.88,
+      "text": "अखेरची बैठक घेतली"
+    },
+    {
+      "duration": 3.361,
+      "end_time": 32.879999999999995,
+      "language": "mr",
+      "segment_id": 12,
+      "start_time": 29.519,
+      "text": "दिल्लीमध्ये काँग्रेस आमदार खासदार आणि"
+    },
+    {
+      "duration": 2.641,
+      "end_time": 33.92,
+      "language": "mr",
+      "segment_id": 13,
+      "start_time": 31.279,
+      "text": "प्रदेशाध्यक्षांची उद्या मंथन बैठक"
+    },
+    {
+      "duration": 3.519,
+      "end_time": 36.399,
+      "language": "mr",
+      "segment_id": 14,
+      "start_time": 32.88,
+      "text": "मल्लिकार्जुन घर खरगे यांच्या"
+    },
+    {
+      "duration": 7.159,
+      "end_time": 41.079,
+      "language": "mr",
+      "segment_id": 15,
+      "start_time": 33.92,
+      "text": "उपस्थितीमध्ये 12 राज्य आणि केंद्रशासित"
+    },
+    {
+      "duration": 4.68,
+      "end_time": 41.079,
+      "language": "mr",
+      "segment_id": 16,
+      "start_time": 36.399,
+      "text": "प्रदेशातील प्रमुख सदस्य उपस्थित राहणार"
+    },
+    {
+      "duration": 3.68,
+      "end_time": 44.96,
+      "language": "mr",
+      "segment_id": 17,
+      "start_time": 41.28,
+      "text": "पुण्याच्या साकडमध्ये ठाकरे आणि शिं"
+    },
+    {
+      "duration": 3.76,
+      "end_time": 46.96,
+      "language": "mr",
+      "segment_id": 18,
+      "start_time": 43.2,
+      "text": "शिवसेना एकत्र शिंदेच्या नगराध्यक्ष"
+    },
+    {
+      "duration": 4.24,
+      "end_time": 49.2,
+      "language": "mr",
+      "segment_id": 19,
+      "start_time": 44.96,
+      "text": "पदाच्या उमेदवार मनीषा गोरेना ठाकरेंच्या"
+    },
+    {
+      "duration": 4.72,
+      "end_time": 51.68,
+      "language": "mr",
+      "segment_id": 20,
+      "start_time": 46.96,
+      "text": "सेनेचाही पाठिंबा मनीषा गोरेचा अर्ज"
+    },
+    {
+      "duration": 4.72,
+      "end_time": 53.92,
+      "language": "mr",
+      "segment_id": 21,
+      "start_time": 49.2,
+      "text": "भरताना ठाकचे आमदार बाबाजी काळेची हजेरी"
+    },
+    {
+      "duration": 4.8,
+      "end_time": 56.48,
+      "language": "mr",
+      "segment_id": 22,
+      "start_time": 51.68,
+      "text": "शिंदेच्या शिवसेनेचे शरद सोनावणे यांचीही"
+    },
+    {
+      "duration": 4.479,
+      "end_time": 58.399,
+      "language": "mr",
+      "segment_id": 23,
+      "start_time": 53.92,
+      "text": "उपस्थिती होती."
+    },
+    {
+      "duration": 4.559,
+      "end_time": 61.038999999999994,
+      "language": "mr",
+      "segment_id": 24,
+      "start_time": 56.48,
+      "text": "महाडमध्ये पाच पक्ष एकत्र येऊनही"
+    },
+    {
+      "duration": 4.561,
+      "end_time": 62.96,
+      "language": "mr",
+      "segment_id": 25,
+      "start_time": 58.399,
+      "text": "नगराध्यक्ष पद शिवसेनेकडे जाणार शिवसेनेचे"
+    },
+    {
+      "duration": 4.241,
+      "end_time": 65.28,
+      "language": "mr",
+      "segment_id": 26,
+      "start_time": 61.039,
+      "text": "युवा नेते विकास गोगावलेकडून विश्वास"
+    },
+    {
+      "duration": 4.72,
+      "end_time": 67.68,
+      "language": "mr",
+      "segment_id": 27,
+      "start_time": 62.96,
+      "text": "व्यक्त सुद्धा उपनगराध्यक्ष आणि पाच जागा"
+    },
+    {
+      "duration": 5.04,
+      "end_time": 70.32000000000001,
+      "language": "mr",
+      "segment_id": 28,
+      "start_time": 65.28,
+      "text": "द्यायला तयार होतो विकास गोगावलेची"
+    },
+    {
+      "duration": 4.72,
+      "end_time": 72.4,
+      "language": "mr",
+      "segment_id": 29,
+      "start_time": 67.68,
+      "text": "प्रतिक्रिया"
+    },
+    {
+      "duration": 4,
+      "end_time": 74.32,
+      "language": "mr",
+      "segment_id": 30,
+      "start_time": 70.32,
+      "text": "पक्ष म्हणून आम्ही निवडणूक लढवत आहोत"
+    },
+    {
+      "duration": 5.84,
+      "end_time": 78.24000000000001,
+      "language": "mr",
+      "segment_id": 31,
+      "start_time": 72.4,
+      "text": "आगामी निवडणुकीमध्ये आमचा विजय निश्चित"
+    },
+    {
+      "duration": 5.76,
+      "end_time": 80.08,
+      "language": "mr",
+      "segment_id": 32,
+      "start_time": 74.32,
+      "text": "एकनाथ खडसेकडून विश्वास व्यक्त"
+    },
+    {
+      "duration": 4.239,
+      "end_time": 82.479,
+      "language": "mr",
+      "segment_id": 33,
+      "start_time": 78.24,
+      "text": "सोलापूरच्या मोहळ मधील अजित पवारांच्या"
+    },
+    {
+      "duration": 4.32,
+      "end_time": 84.4,
+      "language": "mr",
+      "segment_id": 34,
+      "start_time": 80.08,
+      "text": "उमेदवाराचा भाजपा नेते राजन पाटलांवर आरोप"
+    },
+    {
+      "duration": 3.761,
+      "end_time": 86.24,
+      "language": "mr",
+      "segment_id": 35,
+      "start_time": 82.479,
+      "text": "राजन पाटील उमेदवारी अर्ज भरू देत"
+    },
+    {
+      "duration": 3.92,
+      "end_time": 88.32000000000001,
+      "language": "mr",
+      "segment_id": 36,
+      "start_time": 84.4,
+      "text": "नसल्याचा उज्वलाटे चा आरोप पराजक्ता"
+    },
+    {
+      "duration": 6.239,
+      "end_time": 92.479,
+      "language": "mr",
+      "segment_id": 37,
+      "start_time": 86.24,
+      "text": "पाटलांची निवड बिनविरोध व्हावी यासाठी"
+    },
+    {
+      "duration": 6.4,
+      "end_time": 94.72,
+      "language": "mr",
+      "segment_id": 38,
+      "start_time": 88.32,
+      "text": "अर्जभर दिला जात नसल्याचा थिटेंचा आरोप"
+    },
+    {
+      "duration": 3.841,
+      "end_time": 96.32,
+      "language": "mr",
+      "segment_id": 39,
+      "start_time": 92.479,
+      "text": "रमेश पाटलांचा कृषिमंत्री दत्ता भरणींना"
+    },
+    {
+      "duration": 3.6,
+      "end_time": 98.32,
+      "language": "mr",
+      "segment_id": 40,
+      "start_time": 94.72,
+      "text": "कॉल शेतकऱ्यांना मदत मिळत नसल्यामुळे"
+    },
+    {
+      "duration": 5.28,
+      "end_time": 101.6,
+      "language": "mr",
+      "segment_id": 41,
+      "start_time": 96.32,
+      "text": "नाराजी व्यक्त मदत न मिळाल्यास आंदोलन"
+    },
+    {
+      "duration": 5.2,
+      "end_time": 103.52,
+      "language": "mr",
+      "segment_id": 42,
+      "start_time": 98.32,
+      "text": "करण्याचा इशारा"
+    },
+    {
+      "duration": 3.519,
+      "end_time": 105.119,
+      "language": "mr",
+      "segment_id": 43,
+      "start_time": 101.6,
+      "text": "दादर मधील बंदिस्त कबुतरखाना खुला"
+    },
+    {
+      "duration": 3.52,
+      "end_time": 107.03999999999999,
+      "language": "mr",
+      "segment_id": 44,
+      "start_time": 103.52,
+      "text": "करणाऱ्यांवर अद्याप कोणतीही कारवाई का"
+    },
+    {
+      "duration": 5.841,
+      "end_time": 110.96,
+      "language": "mr",
+      "segment_id": 45,
+      "start_time": 105.119,
+      "text": "केली नाही अमित ठाकवर गुन्हा दाखल केल्या"
+    },
+    {
+      "duration": 3.92,
+      "end_time": 110.96000000000001,
+      "language": "mr",
+      "segment_id": 46,
+      "start_time": 107.04,
+      "text": "प्रकरणी गजानन काळेचा सरकारला सवाल"
+    }
+  ],
+  "service_info": {
+    "method": "youtube_transcript_api",
+    "version": "1.0.0"
+  },
+  "success": true,
+  "total_duration": 110.96000000000001,
+  "total_segments": 47,
+  "video_id": "IpEwXDPEWBM",
+  "cached_at": "2025-11-17T07:52:03.237Z",
+  "video_metadata": {
+    "video_id": "IpEwXDPEWBM",
+    "title": "Maharashtra TOP 9 News | Political News | 17 November 2025 | 11 AM | Today Top Breaking",
+    "cached_for_processing": true
+  }
+}

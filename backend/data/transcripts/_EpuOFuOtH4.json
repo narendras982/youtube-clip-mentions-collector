@@ -1,0 +1,204 @@
+{
+  "confidence": 0.7,
+  "detected_language": "mr",
+  "extracted_at": "2025-11-17T11:34:24.723330",
+  "extraction_method": "generated",
+  "languages_attempted": [
+    "mr",
+    "hi",
+    "en"
+  ],
+  "processing_time_ms": 1022,
+  "segments": [
+    {
+      "duration": 8.52,
+      "end_time": 8.68,
+      "language": "mr",
+      "segment_id": 0,
+      "start_time": 0.16,
+      "text": "ची सुरुवात आपण करतोय हेडलाई्स पासून"
+    },
+    {
+      "duration": 5.4,
+      "end_time": 8.68,
+      "language": "mr",
+      "segment_id": 1,
+      "start_time": 3.28,
+      "text": ">> हेडलाइन्स ब्रॉट टू यू बाय चितळे बंधू"
+    },
+    {
+      "duration": 5.201,
+      "end_time": 16.8,
+      "language": "mr",
+      "segment_id": 2,
+      "start_time": 11.599,
+      "text": ">> अजित पवारांनी 500 कोटींचे रुग्णालय"
+    },
+    {
+      "duration": 5.279,
+      "end_time": 19.359,
+      "language": "mr",
+      "segment_id": 3,
+      "start_time": 14.08,
+      "text": "पीपीपी तत्वान तेरणा पब्लिक चॅरिटेबल"
+    },
+    {
+      "duration": 4.639,
+      "end_time": 21.439,
+      "language": "mr",
+      "segment_id": 4,
+      "start_time": 16.8,
+      "text": "ट्रस्टला दिलं अंजली दमान यांचा आरोप"
+    },
+    {
+      "duration": 4.481,
+      "end_time": 23.840000000000003,
+      "language": "mr",
+      "segment_id": 5,
+      "start_time": 19.359,
+      "text": "तेरणा ही माजी मंत्री आणि सुनेत्रा"
+    },
+    {
+      "duration": 5.401,
+      "end_time": 26.84,
+      "language": "mr",
+      "segment_id": 6,
+      "start_time": 21.439,
+      "text": "पवारांचे बंधू पद्मसिंह पाटील यांची"
+    },
+    {
+      "duration": 3,
+      "end_time": 26.84,
+      "language": "mr",
+      "segment_id": 7,
+      "start_time": 23.84,
+      "text": "संस्था"
+    },
+    {
+      "duration": 5.201,
+      "end_time": 32.8,
+      "language": "mr",
+      "segment_id": 8,
+      "start_time": 27.599,
+      "text": "पुण्यातील पार्थ पवार जमीन घोटाळा"
+    },
+    {
+      "duration": 5.361,
+      "end_time": 35.04,
+      "language": "mr",
+      "segment_id": 9,
+      "start_time": 29.679,
+      "text": "प्रकरणामध्ये मुठी समिती आज अहवाल सादर"
+    },
+    {
+      "duration": 4.64,
+      "end_time": 37.44,
+      "language": "mr",
+      "segment_id": 10,
+      "start_time": 32.8,
+      "text": "करणार जमिनीच्या व्यवहारात गैरप्रकार"
+    },
+    {
+      "duration": 5.8,
+      "end_time": 40.839999999999996,
+      "language": "mr",
+      "segment_id": 11,
+      "start_time": 35.04,
+      "text": "झाल्यानंतर महानिरीक्षक राजेंद्र मुठेंची"
+    },
+    {
+      "duration": 3.4,
+      "end_time": 40.839999999999996,
+      "language": "mr",
+      "segment_id": 12,
+      "start_time": 37.44,
+      "text": "समिती स्थापन"
+    },
+    {
+      "duration": 5.52,
+      "end_time": 47.84,
+      "language": "mr",
+      "segment_id": 13,
+      "start_time": 42.32,
+      "text": "उमेदवारी अर्ज दाखल करण्यासाठी उरले केवळ"
+    },
+    {
+      "duration": 4.88,
+      "end_time": 50.160000000000004,
+      "language": "mr",
+      "segment_id": 14,
+      "start_time": 45.28,
+      "text": "चार तास अनेक निवडणूक अधिकारी कार्यालयात"
+    },
+    {
+      "duration": 7.16,
+      "end_time": 55,
+      "language": "mr",
+      "segment_id": 15,
+      "start_time": 47.84,
+      "text": "उमेदवारांची गर्दी तर एबी फॉर्म न"
+    },
+    {
+      "duration": 4.84,
+      "end_time": 55,
+      "language": "mr",
+      "segment_id": 16,
+      "start_time": 50.16,
+      "text": "मिळाल्याने अनेक जण अद्यापही गॅसवर"
+    },
+    {
+      "duration": 5.12,
+      "end_time": 61.76,
+      "language": "mr",
+      "segment_id": 17,
+      "start_time": 56.64,
+      "text": "बारामतीत पुन्हा एकदा पवार विरुद्ध पवार"
+    },
+    {
+      "duration": 5.04,
+      "end_time": 64,
+      "language": "mr",
+      "segment_id": 18,
+      "start_time": 58.96,
+      "text": "पवार योगेंद्र पवार आज नगराध्यक्ष पदाचा"
+    },
+    {
+      "duration": 6.6,
+      "end_time": 68.36,
+      "language": "mr",
+      "segment_id": 19,
+      "start_time": 61.76,
+      "text": "उमेदवार जाहीर करणार तर अजित पवारांच्या"
+    },
+    {
+      "duration": 4.36,
+      "end_time": 68.36,
+      "language": "mr",
+      "segment_id": 20,
+      "start_time": 64,
+      "text": "उमेदवाराची आज स्पष्टता होणार"
+    },
+    {
+      "duration": 3.68,
+      "end_time": 76.799,
+      "language": "mr",
+      "segment_id": 22,
+      "start_time": 73.119,
+      "text": "तर संजय राऊत बाळासाहेबांच्या"
+    }
+  ],
+  "service_info": {
+    "method": "youtube_transcript_api",
+    "version": "1.0.0"
+  },
+  "success": true,
+  "total_duration": 76.799,
+  "total_segments": 22,
+  "video_id": "_EpuOFuOtH4",
+  "cached_at": "2025-11-17T11:34:24.726Z",
+  "video_metadata": {
+    "video_id": "_EpuOFuOtH4",
+    "title": "ABP Majha Headlines Today : 11AM एबीपी माझा हेडलाईन्स : 17 NOV 2025 : ABP Majha",
+    "cached_for_processing": true
+  }
+}

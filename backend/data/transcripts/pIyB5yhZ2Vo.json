@@ -1,0 +1,428 @@
+{
+  "confidence": 0.7,
+  "detected_language": "mr",
+  "extracted_at": "2025-11-17T07:52:06.057354",
+  "extraction_method": "generated",
+  "languages_attempted": [
+    "mr",
+    "hi",
+    "en"
+  ],
+  "processing_time_ms": 1325,
+  "segments": [
+    {
+      "duration": 3.439,
+      "end_time": 3.439,
+      "language": "mr",
+      "segment_id": 0,
+      "start_time": 0,
+      "text": "नागपूर जिल्ह्यामधल्या काँग्रेस"
+    },
+    {
+      "duration": 3.681,
+      "end_time": 5.12,
+      "language": "mr",
+      "segment_id": 1,
+      "start_time": 1.439,
+      "text": "नेतृत्वाच्या मनमानीला कंटाळून"
+    },
+    {
+      "duration": 4.161,
+      "end_time": 7.6,
+      "language": "mr",
+      "segment_id": 2,
+      "start_time": 3.439,
+      "text": "जिल्ह्यामधल्या स्थानिक नेत्यांनी"
+    },
+    {
+      "duration": 5.439,
+      "end_time": 10.559000000000001,
+      "language": "mr",
+      "segment_id": 3,
+      "start_time": 5.12,
+      "text": "काँग्रेस पक्षाला राजीनामा देण्याचा सपाटा"
+    },
+    {
+      "duration": 5.52,
+      "end_time": 13.12,
+      "language": "mr",
+      "segment_id": 4,
+      "start_time": 7.6,
+      "text": "सुरू केलाय. कामटीचे नगराध्यक्ष साजा शेख"
+    },
+    {
+      "duration": 4.641,
+      "end_time": 15.2,
+      "language": "mr",
+      "segment_id": 5,
+      "start_time": 10.559,
+      "text": "यांनी पक्ष नेतृत्वावरती काही गंभीर आरोप"
+    },
+    {
+      "duration": 4.32,
+      "end_time": 17.439999999999998,
+      "language": "mr",
+      "segment_id": 6,
+      "start_time": 13.12,
+      "text": "केले. राष्ट्रवादी काँग्रेस अजित पवार"
+    },
+    {
+      "duration": 4.64,
+      "end_time": 19.84,
+      "language": "mr",
+      "segment_id": 7,
+      "start_time": 15.2,
+      "text": "यांच्या गटामध्ये पक्षप्रवेश केला. आपण"
+    },
+    {
+      "duration": 4.96,
+      "end_time": 22.400000000000002,
+      "language": "mr",
+      "segment_id": 8,
+      "start_time": 17.44,
+      "text": "सुनील केदार यांच्या हुकुमशाहीला कंटाळून"
+    },
+    {
+      "duration": 5.04,
+      "end_time": 24.88,
+      "language": "mr",
+      "segment_id": 9,
+      "start_time": 19.84,
+      "text": "राजीनामा दिल्याचं शेख यांनी जाहीरपणे"
+    },
+    {
+      "duration": 5.28,
+      "end_time": 27.68,
+      "language": "mr",
+      "segment_id": 10,
+      "start_time": 22.4,
+      "text": "सांगितलय. दुसरीकडे महाराष्ट्र प्रदेश"
+    },
+    {
+      "duration": 5.04,
+      "end_time": 29.919999999999998,
+      "language": "mr",
+      "segment_id": 11,
+      "start_time": 24.88,
+      "text": "काँग्रेस कमिटीचे महासचिव प्रसन्ना तिडके"
+    },
+    {
+      "duration": 4.16,
+      "end_time": 31.84,
+      "language": "mr",
+      "segment_id": 12,
+      "start_time": 27.68,
+      "text": "यांनी भाजपामध्ये पक्ष प्रवेश केलाय."
+    },
+    {
+      "duration": 4.08,
+      "end_time": 34,
+      "language": "mr",
+      "segment_id": 13,
+      "start_time": 29.92,
+      "text": "जिल्ह्याचे नेतृत्व करणारे काँग्रेसचे"
+    },
+    {
+      "duration": 4.96,
+      "end_time": 36.8,
+      "language": "mr",
+      "segment_id": 14,
+      "start_time": 31.84,
+      "text": "नेते हे कार्यकर्त्यांच्या सोबत भेदभाव"
+    },
+    {
+      "duration": 4.96,
+      "end_time": 38.96,
+      "language": "mr",
+      "segment_id": 15,
+      "start_time": 34,
+      "text": "करतात. गटबाजीला खतपाणी घालतात. त्यामुळे"
+    },
+    {
+      "duration": 4.32,
+      "end_time": 41.12,
+      "language": "mr",
+      "segment_id": 16,
+      "start_time": 36.8,
+      "text": "भाजप पक्षामध्ये प्रवेश केल्याचं प्रसन्ना"
+    },
+    {
+      "duration": 4.4,
+      "end_time": 43.36,
+      "language": "mr",
+      "segment_id": 17,
+      "start_time": 38.96,
+      "text": "तिडके यांनी म्हटलय. मागच्या 24"
+    },
+    {
+      "duration": 5.439,
+      "end_time": 46.559,
+      "language": "mr",
+      "segment_id": 18,
+      "start_time": 41.12,
+      "text": "तासांमध्ये साजा शेख प्रसन्ना तिडके"
+    },
+    {
+      "duration": 5.44,
+      "end_time": 48.8,
+      "language": "mr",
+      "segment_id": 19,
+      "start_time": 43.36,
+      "text": "रामटेकचे शहर अध्यक्ष दामोदर धोपटे या तीन"
+    },
+    {
+      "duration": 4.16,
+      "end_time": 50.718999999999994,
+      "language": "mr",
+      "segment_id": 20,
+      "start_time": 46.559,
+      "text": "मोठ्या पदाधिकाऱ्यांसह 200 प्रमुख"
+    },
+    {
+      "duration": 4.919,
+      "end_time": 53.718999999999994,
+      "language": "mr",
+      "segment_id": 21,
+      "start_time": 48.8,
+      "text": "कार्यकर्त्यांनी काँग्रेसला राम राम"
+    },
+    {
+      "duration": 3,
+      "end_time": 53.719,
+      "language": "mr",
+      "segment_id": 22,
+      "start_time": 50.719,
+      "text": "ठोकलाय."
+    },
+    {
+      "duration": 4.801,
+      "end_time": 60,
+      "language": "mr",
+      "segment_id": 23,
+      "start_time": 55.199,
+      "text": "दरम्यान काँग्रेसला राम राम केलेल्या साजा"
+    },
+    {
+      "duration": 4.56,
+      "end_time": 62.32,
+      "language": "mr",
+      "segment_id": 24,
+      "start_time": 57.76,
+      "text": "शेख आणि माजी प्रदेश महासचिव प्रसन्ना"
+    },
+    {
+      "duration": 5.32,
+      "end_time": 65.32,
+      "language": "mr",
+      "segment_id": 25,
+      "start_time": 60,
+      "text": "तिडके यांनी नेमके काय आरोप केलेले आहेत"
+    },
+    {
+      "duration": 3,
+      "end_time": 65.32,
+      "language": "mr",
+      "segment_id": 26,
+      "start_time": 62.32,
+      "text": "बघूयात"
+    },
+    {
+      "duration": 5.68,
+      "end_time": 76.32,
+      "language": "mr",
+      "segment_id": 27,
+      "start_time": 70.64,
+      "text": "काँग्रेस पार्टी को इस छोडा की मतलबने"
+    },
+    {
+      "duration": 8.919,
+      "end_time": 82.119,
+      "language": "mr",
+      "segment_id": 28,
+      "start_time": 73.2,
+      "text": "काँग्रेस पार्टीने"
+    },
+    {
+      "duration": 5.799,
+      "end_time": 82.119,
+      "language": "mr",
+      "segment_id": 29,
+      "start_time": 76.32,
+      "text": "सुपारी ली काँग्रेस को हराने की"
+    },
+    {
+      "duration": 6.801,
+      "end_time": 89.60000000000001,
+      "language": "mr",
+      "segment_id": 30,
+      "start_time": 82.799,
+      "text": "आज की भी बात है की अभी तक काँग्रेस"
+    },
+    {
+      "duration": 8.24,
+      "end_time": 93.28,
+      "language": "mr",
+      "segment_id": 31,
+      "start_time": 85.04,
+      "text": "पार्टीने जिसको देना उसको अभी तक के फम"
+    },
+    {
+      "duration": 7.199,
+      "end_time": 96.79899999999999,
+      "language": "mr",
+      "segment_id": 32,
+      "start_time": 89.6,
+      "text": "कल का आखरी दिन आदमी का लगा"
+    },
+    {
+      "duration": 6.72,
+      "end_time": 100,
+      "language": "mr",
+      "segment_id": 33,
+      "start_time": 93.28,
+      "text": "मेरे साथ उतर"
+    },
+    {
+      "duration": 5.28,
+      "end_time": 102.07900000000001,
+      "language": "mr",
+      "segment_id": 34,
+      "start_time": 96.799,
+      "text": "छोड के चले गया राका लढ रहा"
+    },
+    {
+      "duration": 4.96,
+      "end_time": 104.96,
+      "language": "mr",
+      "segment_id": 35,
+      "start_time": 100,
+      "text": ">> महिन्याभ्यापासून असं जाणवू नका कुठेतरी"
+    },
+    {
+      "duration": 5.281,
+      "end_time": 107.36,
+      "language": "mr",
+      "segment_id": 36,
+      "start_time": 102.079,
+      "text": "मला डावल इथ चालू आहे आमचे बरेच कार्यक्रम"
+    },
+    {
+      "duration": 5.28,
+      "end_time": 110.24,
+      "language": "mr",
+      "segment_id": 37,
+      "start_time": 104.96,
+      "text": "होतात मी काँग्रेस इथ काँग्रेस बरेच"
+    },
+    {
+      "duration": 5.2,
+      "end_time": 112.56,
+      "language": "mr",
+      "segment_id": 38,
+      "start_time": 107.36,
+      "text": "वर्षापासून काम करतो सगळ्यांना घेऊन चालतो"
+    },
+    {
+      "duration": 6,
+      "end_time": 116.24,
+      "language": "mr",
+      "segment_id": 39,
+      "start_time": 110.24,
+      "text": "पण ते मला एक दोन महिन्यापासून जाणवलं की"
+    },
+    {
+      "duration": 5.28,
+      "end_time": 117.84,
+      "language": "mr",
+      "segment_id": 40,
+      "start_time": 112.56,
+      "text": "यांनी मला बाजून सारवणं चालू केलाय म्हणून"
+    },
+    {
+      "duration": 3.36,
+      "end_time": 119.6,
+      "language": "mr",
+      "segment_id": 41,
+      "start_time": 116.24,
+      "text": "मला आता असं वाटायला लागलं की मी"
+    },
+    {
+      "duration": 5.36,
+      "end_time": 123.2,
+      "language": "mr",
+      "segment_id": 42,
+      "start_time": 117.84,
+      "text": "मोद्यासाठी काहीतरी करू शकतो मी काही"
+    },
+    {
+      "duration": 5.44,
+      "end_time": 125.03999999999999,
+      "language": "mr",
+      "segment_id": 43,
+      "start_time": 119.6,
+      "text": "चांगला विकास करू शकतो. म्हणून आता आदरणीय"
+    },
+    {
+      "duration": 3.76,
+      "end_time": 126.96000000000001,
+      "language": "mr",
+      "segment_id": 44,
+      "start_time": 123.2,
+      "text": "बावनकुळे साहेब जे आपले जिल्ह्याचे"
+    },
+    {
+      "duration": 3.839,
+      "end_time": 128.87900000000002,
+      "language": "mr",
+      "segment_id": 45,
+      "start_time": 125.04,
+      "text": "पालकमंत्री आहे महसूल मंत्री आहे"
+    },
+    {
+      "duration": 5.76,
+      "end_time": 132.72,
+      "language": "mr",
+      "segment_id": 46,
+      "start_time": 126.96,
+      "text": "त्यांच्या नेतृत्वात आता मोद्याच्या"
+    },
+    {
+      "duration": 9.561,
+      "end_time": 138.44,
+      "language": "mr",
+      "segment_id": 47,
+      "start_time": 128.879,
+      "text": "विकासासाठी मी आज पाऊल उचलला"
+    },
+    {
+      "duration": 5.72,
+      "end_time": 138.44,
+      "language": "mr",
+      "segment_id": 48,
+      "start_time": 132.72,
+      "text": ">> एबीपी माझा उघडा डोळे बघा नीट"
+    },
+    {
+      "duration": 2.02,
+      "end_time": 152.01600000000002,
+      "language": "mr",
+      "segment_id": 49,
+      "start_time": 149.996,
+      "text": ">>"
+    }
+  ],
+  "service_info": {
+    "method": "youtube_transcript_api",
+    "version": "1.0.0"
+  },
+  "success": true,
+  "total_duration": 152.01600000000002,
+  "total_segments": 50,
+  "video_id": "pIyB5yhZ2Vo",
+  "cached_at": "2025-11-17T07:52:06.060Z",
+  "video_metadata": {
+    "video_id": "pIyB5yhZ2Vo",
+    "title": "Nagpur Congress Action",
+    "cached_for_processing": true
+  }
+}
